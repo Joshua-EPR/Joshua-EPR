@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Joshua, un desarrollador web junior apasionado por la creación de experiencias web dinámicas y funcionales. Desde que descubrí mi interés por la tecnología y el desarrollo web, he dedicado mi tiempo a aprender y mejorar mis habilidades en este campo en constante evolución.
+¡Hola! Soy Joshua, un desarrollador web apasionado por la creación de experiencias web dinámicas y funcionales. Desde que descubrí mi interés por la tecnología y el desarrollo web, he dedicado mi tiempo a aprender y mejorar mis habilidades en este campo en constante evolución.
 
 
 # 💻 Tech Stack:
