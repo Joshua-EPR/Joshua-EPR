@@ -11,26 +11,7 @@
         </div>
     </div>
     
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<style>
-    .body{
-        margin:0;
-        padding:0;
-        font-family: monospace;
-        box-sizing: border-box;
-    }
-    .body div{
-        display:flex;
-        justify-content: center;
-        align-items: center;
-        flex-flow: column;
-        padding: 20px;
-    }
-    .img{
-        max-height:300px;
-        max-width:300px;
-        border: solid 6px;
-        border-radius:100%;
-    }
-</style>
