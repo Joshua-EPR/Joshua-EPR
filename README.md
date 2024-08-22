@@ -1,4 +1,18 @@
 
+
+
+   <div class='body'>
+        <div clas='container'>
+            <img class='img' src='https://i.postimg.cc/tTfhp4Xy/hq4wnaacj8g41mjn3a5nsuzrdp0a.png' alt='Joshua'/>
+            <div>
+                <h1>Joshua Emil P. R.</h1>
+                 <span>¡Hola! Soy Joshua, un desarrollador web apasionado por la creación de experiencias web dinámicas y funcionales. Desde que descubrí mi interés por la tecnología y el desarrollo web, he dedicado mi tiempo a aprender y mejorar mis habilidades en este campo en constante evolución.</span>
+            </div>
+        </div>
+    </div>
+    
+
+
 <style>
     .body{
         margin:0;
@@ -20,13 +34,3 @@
         border-radius:100%;
     }
 </style>
-    <div class='body'>
-        <div clas='container'>
-            <img class='img' src='https://i.postimg.cc/tTfhp4Xy/hq4wnaacj8g41mjn3a5nsuzrdp0a.png' alt='Joshua'/>
-            <div>
-                <h1>Joshua Emil P. R.</h1>
-                 <span>¡Hola! Soy Joshua, un desarrollador web apasionado por la creación de experiencias web dinámicas y funcionales. Desde que descubrí mi interés por la tecnología y el desarrollo web, he dedicado mi tiempo a aprender y mejorar mis habilidades en este campo en constante evolución.</span>
-            </div>
-        </div>
-    </div>
-    
