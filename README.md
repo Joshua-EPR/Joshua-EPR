@@ -1,9 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-     <link rel='stylesheet' href='style.css' />
-</head>
 <style>
     .body{
         margin:0;
@@ -25,7 +20,6 @@
         border-radius:100%;
     }
 </style>
-<body>
     <div class='body'>
         <div clas='container'>
             <img class='img' src='https://i.postimg.cc/tTfhp4Xy/hq4wnaacj8g41mjn3a5nsuzrdp0a.png' alt='Joshua'/>
@@ -36,5 +30,3 @@
         </div>
     </div>
     
-</body>
-</html>
