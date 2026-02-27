@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Software Engineering and based in La Vega, Dominican Republic. I am passionate about transforming complex ideas into functional products, managing teams, and writing scalable code.
+Currently studying Software Engineering and based in Santiago, Dominican Republic. I am passionate about transforming complex ideas into functional products, managing teams, and writing scalable code.
 
 
 ## 🌐 Socials:
