@@ -1,7 +1,6 @@
 # 💫 About Me:
 Currently studying Software Engineering and based in Santiago, Dominican Republic. I am passionate about transforming complex ideas into functional products, managing teams, and writing scalable code.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-epr) 
 
