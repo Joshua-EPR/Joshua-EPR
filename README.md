@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Software Engineering and based in Santiago, Dominican Republic. I am passionate about transforming complex ideas into functional products, managing teams, and writing scalable code.
+Fullstack Developer Jr. enfocado en construir aplicaciones web con Next.js y PostgreSQL. Con base en QA, me gusta escribir código limpio y confiable. Siempre aprendiendo, siempre mejorando.
 
 
 
