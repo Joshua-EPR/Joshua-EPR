@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer Jr. enfocado en construir aplicaciones web con Next.js y PostgreSQL. Con base en QA, me gusta escribir código limpio y confiable. Siempre aprendiendo, siempre mejorando.
+Fullstack Junior Developer enfocado en construir aplicaciones web. Con base en QA, me gusta escribir código limpio y confiable. Siempre aprendiendo, siempre mejorando.
 
 
 
