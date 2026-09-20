@@ -3,7 +3,7 @@ Fullstack Junior Developer enfocado en construir aplicaciones web. Con base en Q
 
 
 
-## 🌐 Social:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-emil-pe%C3%B1a-rosario-b95614408/) 
 
 # 💻 Tech Stack:
