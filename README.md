@@ -48,8 +48,8 @@ Desarrollador Fullstack Junior y estudiante de Ingeniería de Software, enfocado
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium" alt="Estadísticas de Joshua" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radium" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-EPR&show_icons=true&theme=radium" alt="Estadísticas de Joshua" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-EPR&layout=compact&theme=radium" alt="Lenguajes más usados" height="150" />
 </div>
 
 ---
