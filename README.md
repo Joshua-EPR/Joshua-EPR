@@ -31,7 +31,7 @@ Desarrollador Fullstack Junior y estudiante de Ingeniería de Software, enfocado
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TypeOrm](https://img.shields.io/badge/TypeOrm-3982CE?style=for-the-badge&logo=TypeOrm&logoColor=white)
 
 ### 🛠️ Herramientas, DevOps & Cloud
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
