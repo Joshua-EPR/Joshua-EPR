@@ -4,7 +4,7 @@
 Desarrollador Fullstack Junior y estudiante de Ingeniería de Software, enfocado en construir aplicaciones web robustas. Combinando mi base en **QA** con experiencia en **Gestión de Proyectos**, tengo una fuerte orientación hacia la arquitectura, escribiendo código limpio, escalable y confiable. Siempre aprendiendo, siempre mejorando.
 
 
-## 🌐 Conecta conmigo
+## 🌐 Conecta conmig
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-emil-pe%C3%B1a-rosario-b95614408/) 
 
 
