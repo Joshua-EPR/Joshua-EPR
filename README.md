@@ -1,7 +1,7 @@
 # ¡Hola! Soy Joshua Emil Peña Rosario 👋
 
 ### 💫 Sobre mí
-Desarrollador Fullstack Junior y estudiante de Ingeniería de Software, enfocado en construir aplicaciones web robustas. Combinando mi base en **QA** con experiencia en **Gestión de Proyectos**, tengo una fuerte orientación hacia la arquitectura, escribiendo código limpio, escalable y confiable. Siempre aprendiendo, siempre mejorando.
+Desarrollador Fullstack Junior y estudiante de Ingeniería de Software, enfocado en construir aplicaciones web robustas. Combinando mi base en **QA** con experiencia en **Gestión de Proyectos**, teng una fuerte orientación hacia la arquitectura, escribiendo código limpio, escalable y confiable. Siempre aprendiendo, siempre mejorando.
 
 
 ## 🌐 Conecta conmigo
